@@ -1,7 +1,6 @@
-package com.example.javapractice.FifteenDaysOfCode;
+package com.example.javapractice.fifteendaysofcode;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import org.junit.Test;
 

@@ -1,7 +1,5 @@
-package com.example.javapractice.FifteenDaysOfCode;
+package com.example.javapractice.fifteendaysofcode;
 
-import java.util.HashMap;
-import java.util.HashSet;
 import java.util.stream.Collectors;
 
 /**

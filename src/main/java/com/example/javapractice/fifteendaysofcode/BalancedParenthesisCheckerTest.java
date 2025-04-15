@@ -1,4 +1,4 @@
-package com.example.javapractice.FifteenDaysOfCode;
+package com.example.javapractice.fifteendaysofcode;
 
 import org.junit.Test;
 

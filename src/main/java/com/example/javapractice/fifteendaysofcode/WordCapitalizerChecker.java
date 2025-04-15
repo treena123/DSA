@@ -1,6 +1,4 @@
-package com.example.javapractice.FifteenDaysOfCode;
-
-import java.util.Arrays;
+package com.example.javapractice.fifteendaysofcode;
 
 /**
  * @author trinapal

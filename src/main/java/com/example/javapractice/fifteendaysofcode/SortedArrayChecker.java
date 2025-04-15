@@ -1,4 +1,4 @@
-package com.example.javapractice.FifteenDaysOfCode;
+package com.example.javapractice.fifteendaysofcode;
 
 import java.util.Arrays;
 
@@ -43,7 +43,7 @@ public class SortedArrayChecker {
         return true;
     }
 
-    public static boolean isArraySortedUsingStream(int[] nums) {
+    //public static boolean isArraySortedUsingStream(int[] nums) {
         /*
         What’s the problem?
 Arrays can be indexed — streams can't.
@@ -54,6 +54,6 @@ No direct way to compare "previous" and "current" elements unless we remember st
 
 
          */
-        Arrays.stream(nums).forEach(num -> num);
-    }
+        //Arrays.stream(nums).forEach(num -> num);
+   // }
 }
